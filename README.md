@@ -5,7 +5,7 @@
 
  <h2>Contact</h2> <!-- Contact -->
  <p>
-   <strong>Email: </strong><a href="mailto:morash.gage@gmail.com">Morash.Gage@gmail.com</a>
+   <strong>Email: </strong><a href="mailto:morash.gage@gmail.com">morash.gage@gmail.com</a>
    <br>
    <strong>Linkedin: </strong><a href="https://linkedin.com/in/gage-morash">linkedin.com/in/gage-morash</a>
  </p>
@@ -56,7 +56,7 @@
 
  <h1>Projects</h1>
 
- <h2>Low Level Programming</h2> <!-- Low Level Projects -->
+ <h2>Low-Level Programming</h2> <!-- Low-Level Projects -->
 
  <h3>SDL Game Engine</h3>
  <p>
@@ -152,21 +152,122 @@
  <h2>Unity</h2> <!-- Unity Engine Projects -->
 
  <h3>Procedural Dungeon Crawler</h3>
+  <p>
+  <ul>
+   <li><a href="https://github.com/GageM/ProceduralDungeonAndAI_Unity">Github Repository</a></li>
+   <li><strong>Description:</strong> A Work In Progress Roguelike Dungeon Crawler Game</li>
+   <li><strong>Role:</strong> Solo Developer</li>
+   <li><strong>Technologies:</strong> Unity, Blender, Visual Studio, Git</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>Procedural Dungeone Generation Using Graphs and Pathfinding</li>
+     <li>Custom-Built AI System</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
  
  <h3>AR Board Game</h3>
+ <p>
+  <ul>
+   <li><a href="https://github.com/GageM/Monopoly-AR-Game">Github Repository</a></li>
+   <li><strong>Description:</strong> An AR Board Game Created For Android Devices</li>
+   <li><strong>Role:</strong> Solo Developer</li>
+   <li><strong>Technologies:</strong> Unity, Visual Studio, Git</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>Utilizes Unity's XR Toolkit</li>
+     <li>Up To Four Concurrent Players</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
 
- <h3>Drone Flying Project</h3>
+ <h3>Drone Flying Demo</h3>
+ <p>
+  <ul>
+   <li><i>Github Link Will Be Added Soon</i></li>
+   <li><strong>Description:</strong> A Demo Allowing Players To Fly A Drone In A Circuit Race</li>
+   <li><strong>Role:</strong> Solo Developer</li>
+   <li><strong>Technologies:</strong> Unity, Blender, Visual Studio</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>Utilizes Unity's HDRP Rendering Pipeline</li>
+     <li>Scratch Built Player Controller</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
 
- <h3>Global Game Jam 2022</h3>
-
- <h2>3D Projects</h2> <!-- 3D Projects -->
+ <h2>3D Projects </h2> <!-- 3D Projects -->
+ <h3><i>ArtStation Links Will Be Added Soon</i></h3>
 
  <h3>Medieval Asset Pack</h3>
+ <p>
+  <ul>
+   <!-- li><a href="TODO: ADD LINK HERE">Artstation Link</a></li> -->
+   <li><strong>Description:</strong> A 3D Asset Pack Containing Modular Fantasy Architecture and Props</li>
+   <li><strong>Role:</strong> Solo Artist</li>
+   <li><strong>Technologies:</strong> Blender, Substance Painter</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>Custom Trim Textures</li>
+     <li>19 Piece Prop Asset Kit</li>
+     <li>22 Piece Architectural Asset Kit</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
  
  <h3>Library Render Challenge</h3>
+ <p>
+  <ul>
+   <!-- li><a href="TODO: ADD LINK HERE">Artstation Link</a></li> -->
+   <li><strong>Description:</strong> An Animation Featuring An Eldritch Moster In A Library</li>
+   <li><strong>Role:</strong> Solo Artist</li>
+   <li><strong>Technologies:</strong> Blender</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>5 Second Animation</li>
+     <li>Custom Library Environment</li>
+     <li>Four Geometry Nodes Systems</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
 
- <h3>Modular Fantasy House</h3>
+ <h3>Victorian Interior Render</h3>
+ <p>
+  <ul>
+   <!-- li><a href="TODO: ADD LINK HERE">Artstation Link</a></li> -->
+   <li><strong>Description:</strong> A 3D Render Of A Victorian-Style Interior</li>
+   <li><strong>Role:</strong> Solo Artist</li>
+   <li><strong>Technologies:</strong> Blender</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>Custom Trim Textures</li>
+     <li>7 Piece Prop Asset Kit</li>
+     <li>20 Piece Architectural Asset Kit</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
 
- <h3>Victorian Interior</h3>
+ <h3>Moving Meditations Render Challenge</h3>
+ <p>
+  <ul>
+   <!-- li><a href="TODO: ADD LINK HERE">Artstation Link</a></li> -->
+   <li><strong>Description:</strong> An Animation Created For A Render Challenge</li>
+   <li><strong>Role:</strong> Solo Artist</li>
+   <li><strong>Technologies:</strong> Blender</li>
+   <li><strong>Key Features:</strong> 
+    <ul>
+     <li>6 Second Animation</li>
+     <li>Growing Ivy Using Geometry Nodes</li>
+     <li>Motion Capture Implementation</li>
+    </ul>
+   </li>
+  </ul>
+ </p>
 
  
